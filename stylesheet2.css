@@ -1,0 +1,75 @@
+/* 
+Together-1
+ */
+body{
+	background:#B3B3B3;
+	font-size: 100%;
+
+  background-image: 	url("back2.jpg");
+
+  background-size: cover;
+  background-repeat: no-repeat;
+   background-color: lightgrey;
+  border: 15px solid green;
+  padding: 100px;
+  margin: 20px;
+  height: all;
+  width: all;
+
+
+
+
+}
+
+header{
+	font-size: auto;
+	
+}
+
+h1{
+	
+  display: block;
+  font-size: 2em;
+  margin-top: 0.67em;
+  margin-bottom: 0.67em;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  text-align: center;
+
+}
+
+nav{
+	font-variant: small-caps;
+	font-family: Arial, "Times New Roman", serif;
+	font-size: 150%;
+}
+
+h2{
+	color:black;
+	text-align: center;	
+	
+}
+
+h4{
+	font-size: 125%
+}
+
+
+summary{
+	font-style:normal;
+
+}
+
+details{
+	font-style: italic;
+
+}
+
+
+footer{
+
+	text-align:center;
+	font-size: xx-large;
+	font-family: monospace;		
+}
